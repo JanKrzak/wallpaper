@@ -33,7 +33,7 @@ All data collection complies with Apple App Store privacy guidelines.
 If you have questions, issues, or feedback, please contact support:
 
 👉 **Support URL:**  
-<PUT_YOUR_SUPPORT_URL_HERE>
+jan.krzaczkowski@gmail.com
 
 ## Requirements
 
